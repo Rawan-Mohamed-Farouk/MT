@@ -7,11 +7,11 @@ EmpowerWork is a comprehensive job assistance platform designed specifically for
 ## 👥 Project Team
 
 - **Khaled Ghalwash**
-- **Rawan mohamed**
+- **Rawan Mohamed Farouk**
 - **Mohamed Gamal**
 - **Mohamed Hassen**
-- **Mazen**
-- **Nadeen**
+- **Mazen Hossam**
+- **Nadeen Ehab**
 
 ## 🏗️ Project Structure
 
